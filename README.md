@@ -2,6 +2,7 @@
 
 <p align="center">
   Estudiante de 2º de <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b><br>
+  Actual administrativo con más de 10 años de experiencia en roles polivalentes💻
   Apasionado del software y del hardware 💻🔧
 </p>
 
@@ -9,10 +10,11 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Cursando **2º de DAM**, con especial interés en el desarrollo de aplicaciones en **Java**.
+- 🎓 Ciclo superior en administración y finanzas(2013-2015) Actualmente cursando **2º de DAM**, con especial interés en el desarrollo de aplicaciones en **Java**.
 - 🔧 **Experiencia no profesional en el sector del hardware y la tecnología en general**: montaje, mantenimiento de equipos, etc...
 - 🌱 Ahora mismo estoy profundizando en el desarrollo de aplicaciones y subiendo aquí mis prácticas y proyectos de clase.
 - 🚀 Seguir aprendiendo y formandome como profesional en el sector tech
+- 💼 Aprender lenguajes como python para enfocarme en la automatización de procesos
 
 ---
 
@@ -62,14 +64,6 @@ Aquí iré subiendo los trabajos y prácticas de 2º de DAM. Algunos de los que 
 - [ ] Aprender lenguajes para poder enfocarlos a la automatización de procesos como python
 - [ ] Desarrollo de aplicaciones multiplataforma
 - [ ] Trabajar con control de versiones en equipo (Git/GitHub)
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
 
 ---
 
