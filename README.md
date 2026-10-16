@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Ciclo superior en administración y finanzas(2013-2015) Actualmente cursando **2º de DAM**, con especial interés en el desarrollo de aplicaciones en **Java**.
+- 🎓 Ciclo superior en administración y finanzas(2013-2015) Actualmente cursando **2º de DAM**, con especial interés en el desarrollo de aplicaciones en **Java** **Python**, me gustaría enfocar mis conocimientos para la automatización de procesos. 
 - 🔧 **Experiencia no profesional en el sector del hardware y la tecnología en general**: montaje, mantenimiento de equipos, etc...
 - 🌱 Ahora mismo estoy profundizando en el desarrollo de aplicaciones y subiendo aquí mis prácticas y proyectos de clase.
 - 🚀 Seguir aprendiendo y formandome como profesional en el sector tech
