@@ -71,7 +71,7 @@ Aquí iré subiendo los trabajos y prácticas de 2º de DAM. Algunos de los que 
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [tu-linkedin](https://www.linkedin.com/in/francisco-javier-reinaldos-chuecos/?isSelfProfile=true)
+- 💼 LinkedIn: [Mi Linkedin](https://www.linkedin.com/in/francisco-javier-reinaldos-chuecos/?isSelfProfile=true)
 - 📧 Email: franreinaldos@gmail.com
 
 ---
